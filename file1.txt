@@ -1,3 +1,6 @@
 This is a file
 
 Naveen - Adding new line for conflict
+Conflict -line1-sumit
+Conflict -line2-sumit
+

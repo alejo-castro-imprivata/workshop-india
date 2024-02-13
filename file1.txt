@@ -1,6 +1,8 @@
 This is a file
+line 2
 Naveen - Adding new line for conflict
 Conflict -line1-sumit
 Conflict -line2-sumit
 line added by Indira.
 
+line 8
